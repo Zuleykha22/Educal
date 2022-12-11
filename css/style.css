@@ -1,0 +1,1969 @@
+@import url("https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&display=swap");
+.blue-button {
+  display: block;
+  padding: 10px 30px;
+  border-radius: 4px;
+  background-color: #2B4EFF;
+  color: white;
+  font-weight: 500;
+  -webkit-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out;
+}
+
+.blue-button:hover {
+  color: white;
+  -webkit-box-shadow: 0 16px 32px 0 rgba(6, 25, 28, 0.256);
+          box-shadow: 0 16px 32px 0 rgba(6, 25, 28, 0.256);
+}
+
+.business-intelligence {
+  padding: 80px 160px;
+  position: relative;
+}
+
+.business-intelligence .background-shape-one {
+  position: absolute;
+  height: auto;
+  width: auto;
+  top: 7%;
+  left: 0%;
+}
+
+.business-intelligence .background-shape-two {
+  position: absolute;
+  height: auto;
+  width: auto;
+  top: 4%;
+  left: 5%;
+}
+
+.business-intelligence .background-shape-three {
+  position: absolute;
+  height: auto;
+  width: auto;
+  top: 1%;
+  right: 0%;
+}
+
+.business-intelligence .background-shape-four {
+  position: absolute;
+  height: auto;
+  width: auto;
+  top: 5%;
+  right: 7.6%;
+  z-index: -1;
+}
+
+.business-intelligence .business-intelligence-top li {
+  margin-right: 20px;
+  color: #595858;
+  font-size: 14px;
+}
+
+.business-intelligence .business-intelligence-top li a {
+  text-decoration: none;
+  color: #595858;
+  font-size: 14px;
+  position: relative;
+}
+
+.business-intelligence .business-intelligence-top li a::after {
+  content: ".";
+  font-weight: 900;
+  cursor: default;
+  position: absolute;
+  width: 50%;
+  height: 50%;
+  left: 110%;
+  bottom: 55%;
+}
+
+.business-intelligence .business-intelligence-top .field-name {
+  display: inline-block;
+  font-size: 14px;
+  padding: 2px 8px 4px 8px;
+  color: white;
+  background-color: #30A820;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+
+.business-intelligence .business-intelligence-top h1 {
+  color: #0E1133;
+  font-weight: 700;
+  font-size: 48px;
+}
+
+.business-intelligence .course-details {
+  width: 60%;
+  margin: 30px 0 50px 0;
+}
+
+.business-intelligence .course-details h5 {
+  font-size: 14px;
+  color: #53545b;
+  margin-bottom: 2px;
+}
+
+.business-intelligence .course-details a,
+.business-intelligence .course-details p,
+.business-intelligence .course-details span {
+  font-size: 15px;
+  font-weight: 700;
+  color: #0E1133;
+  margin-bottom: 0;
+}
+
+.business-intelligence .course-details img {
+  width: 45px;
+  border-radius: 50%;
+  border: 2px solid white;
+  margin-right: 10px;
+}
+
+.business-intelligence .course-details i {
+  font-size: 13px;
+  color: #FF9415;
+}
+
+.business-intelligence .tab-menu-head {
+  overflow: hidden;
+  border-radius: 3px;
+  margin: 25px 0 35px 0;
+  border-right: 1px solid grey;
+}
+
+.business-intelligence .tab-menu-head .main-tab-menu-head {
+  background-color: #2B4EFF;
+  color: white;
+}
+
+.business-intelligence .tab-menu-head .last-tab-menu-head {
+  border-right: none;
+}
+
+.business-intelligence .tab-menu-head a {
+  background-color: #EDEEF3;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  width: 25%;
+  padding: 15px 0;
+  font-weight: 600;
+  border-right: 1px solid #d2d3dc;
+}
+
+.business-intelligence .discription h2 {
+  font-size: 25px;
+  color: #0E1133;
+  font-weight: 700;
+}
+
+.business-intelligence .discription p {
+  font-size: 18px;
+  color: #53545b;
+}
+
+.business-intelligence .discription .course-tag {
+  margin: 25px 0;
+}
+
+.business-intelligence .discription .course-tag i {
+  color: #2B4EFF;
+}
+
+.business-intelligence .discription .course-tag a {
+  text-decoration: none;
+  color: #53545b;
+  font-weight: 500;
+  -webkit-transition: 0.1s ease-in-out;
+  transition: 0.1s ease-in-out;
+}
+
+.business-intelligence .discription .course-tag a:hover {
+  color: #2B4EFF;
+}
+
+.business-intelligence .discription .target-audience {
+  margin-bottom: 45px;
+}
+
+.business-intelligence .discription .target-audience h3 {
+  font-size: 26px;
+  font-weight: 700;
+  color: #0E1133;
+}
+
+.business-intelligence .discription .target-audience li {
+  font-size: 18px;
+  color: #53545b;
+  margin-bottom: 7px;
+}
+
+.business-intelligence .discription .target-audience i {
+  margin-right: 10px;
+}
+
+.business-intelligence .discription .other-instructors {
+  width: 100%;
+}
+
+.business-intelligence .discription .other-instructors h3 {
+  font-size: 26px;
+  font-weight: 700;
+  color: #0E1133;
+  margin-bottom: 20px;
+}
+
+.business-intelligence .discription .other-instructors .instructor {
+  width: 200px;
+}
+
+.business-intelligence .discription .other-instructors .instructor img {
+  width: 50px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+
+.business-intelligence .discription .other-instructors .instructor p {
+  margin-bottom: 0;
+  font-weight: 600;
+  font-size: 15px;
+  color: #0E1133;
+}
+
+.business-intelligence .discription .other-instructors .instructor h6 {
+  font-size: 14px;
+  color: #53545b;
+  font-weight: 400;
+}
+
+.business-intelligence .curriculum .accordion-menu {
+  border-radius: 4px;
+  width: 100%;
+  margin: 50px 0;
+  overflow: hidden;
+}
+
+.business-intelligence .curriculum .accordion-menu .accordion-menu-head {
+  font-size: 20px;
+  font-weight: 700;
+  color: #0E1133;
+  padding: 18px 30px 12px;
+  background-color: #F3F4F8;
+  border: 1px solid #EDEEF2;
+}
+
+.business-intelligence .curriculum .accordion-menu .accordion-menu-head h4 {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.business-intelligence .curriculum .accordion-menu .class-features {
+  padding: 18px 30px;
+  border: 0.2px solid #EDEEF2;
+  border-top: none;
+}
+
+.business-intelligence .curriculum .accordion-menu .class-features i {
+  margin-right: 10px;
+  color: #6d6e75;
+}
+
+.business-intelligence .curriculum .accordion-menu .class-features span {
+  color: #53545b;
+  font-size: 16px;
+}
+
+.business-intelligence .curriculum .accordion-menu .class-features .reading {
+  font-weight: 500;
+  color: #0E1133;
+}
+
+.business-intelligence .curriculum .accordion-menu .class-features .span-pink {
+  margin-left: 18px;
+  color: white;
+  padding: 0.8px 7px 2px;
+  border-radius: 4px;
+  background-color: #F2277E;
+}
+
+.business-intelligence .reviews h3 {
+  color: #0E1133;
+  font-weight: 700;
+  font-size: 23px;
+}
+
+.business-intelligence .reviews .review-top-text p {
+  color: #6d6e75;
+}
+
+.business-intelligence .reviews .rating {
+  width: 108%;
+  height: 250px;
+  background-color: #F3F4F8;
+  padding: 30px;
+  border-bottom-left-radius: 4px;
+  border-top-left-radius: 4px;
+}
+
+.business-intelligence .reviews .rating h1 {
+  padding: 0;
+  font-size: 6rem;
+  color: #0E1133;
+}
+
+.business-intelligence .reviews .rating .review-stars {
+  margin: -10px 0 8px 0;
+}
+
+.business-intelligence .reviews .rating .review-stars i {
+  color: #FF9415;
+  font-size: 14.5px;
+}
+
+.business-intelligence .reviews .rating h4 {
+  color: #53545b;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.business-intelligence .reviews .detailed-rating {
+  width: 100%;
+  height: 250px;
+  background-color: #F3F4F8;
+  padding: 35px;
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.business-intelligence .reviews .detailed-rating h5 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #0e1133;
+  margin-bottom: 8px;
+}
+
+.business-intelligence .reviews .detailed-rating .data-box {
+  margin: 7px 0;
+}
+
+.business-intelligence .reviews .detailed-rating .data-box span {
+  width: 15%;
+  font-size: 16px;
+  color: #53545b;
+}
+
+.business-intelligence .reviews .detailed-rating .data-box .data-line {
+  overflow: hidden;
+  width: 70%;
+  height: 3.5px;
+  border-radius: 3px;
+  background-color: #d8dae3;
+}
+
+.business-intelligence .reviews .detailed-rating .data-box .data-line .data {
+  width: 100%;
+  height: 100%;
+  background-color: #2B4EFF;
+}
+
+.business-intelligence .reviews .detailed-rating .data-box .data-line .thirty-percent {
+  width: 30%;
+}
+
+.business-intelligence .reviews .student-reviews {
+  margin-top: 40px;
+}
+
+.business-intelligence .reviews .student-reviews .student-review {
+  background-color: #F3F4F8;
+  width: 100%;
+  padding: 30px;
+  margin-top: 20px;
+}
+
+.business-intelligence .reviews .student-reviews .student-review img {
+  border-radius: 50%;
+  margin-right: 15px;
+}
+
+.business-intelligence .reviews .student-reviews .student-review h5 {
+  color: #0e1133;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.business-intelligence .reviews .student-reviews .student-review h6 {
+  font-size: 14px;
+  color: #53545b;
+  font-weight: normal;
+}
+
+.business-intelligence .reviews .student-reviews .student-review .review-content {
+  font-size: 16px;
+  font-weight: normal;
+  color: #6d6e75;
+}
+
+.business-intelligence .reviews .student-reviews .student-review a {
+  color: #FF9415;
+}
+
+.business-intelligence .reviews .student-reviews .student-review a i {
+  font-size: 11px;
+}
+
+.business-intelligence .reviews .write-a-review {
+  margin-top: 35px;
+}
+
+.business-intelligence .reviews .write-a-review input,
+.business-intelligence .reviews .write-a-review textarea {
+  width: 100%;
+  margin-top: 15px;
+  background-color: #F3F4F8;
+  border: none;
+  border-radius: 5px;
+  height: 57px;
+  padding: 15px 25px;
+}
+
+.business-intelligence .reviews .write-a-review input ::-webkit-input-placeholder,
+.business-intelligence .reviews .write-a-review textarea ::-webkit-input-placeholder {
+  font-size: 20px;
+  color: red;
+}
+
+.business-intelligence .reviews .write-a-review input :-ms-input-placeholder,
+.business-intelligence .reviews .write-a-review textarea :-ms-input-placeholder {
+  font-size: 20px;
+  color: red;
+}
+
+.business-intelligence .reviews .write-a-review input ::-ms-input-placeholder,
+.business-intelligence .reviews .write-a-review textarea ::-ms-input-placeholder {
+  font-size: 20px;
+  color: red;
+}
+
+.business-intelligence .reviews .write-a-review input ::placeholder,
+.business-intelligence .reviews .write-a-review textarea ::placeholder {
+  font-size: 20px;
+  color: red;
+}
+
+.business-intelligence .reviews .write-a-review .review-rating-stars {
+  margin: 15px 0 0 0;
+}
+
+.business-intelligence .reviews .write-a-review .review-rating-stars .review-stars {
+  display: inline;
+}
+
+.business-intelligence .reviews .write-a-review .review-rating-stars .review-stars a {
+  color: #FF9415;
+  font-size: 12px;
+}
+
+.business-intelligence .reviews .write-a-review .review-rating-stars .review-stars a .grey-star {
+  color: #B8B9BF;
+}
+
+.business-intelligence .reviews .write-a-review textarea {
+  height: 150px;
+}
+
+.business-intelligence .reviews .write-a-review .b-b-different {
+  margin-top: 20px;
+  display: inline-block;
+  padding: 14px 20px;
+}
+
+.business-intelligence .members .course-member {
+  border-radius: 5px;
+  padding: 33px 40px;
+  background-color: #F3F4F8;
+  margin: 11px 0;
+}
+
+.business-intelligence .members .course-member .course-member-intro {
+  position: relative;
+}
+
+.business-intelligence .members .course-member .course-member-intro::after {
+  content: "";
+  position: absolute;
+  width: 1px;
+  height: 100%;
+  top: 0%;
+  right: -30%;
+  background: #dddee4;
+}
+
+.business-intelligence .members .course-member .course-member-intro img {
+  width: 70px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+
+.business-intelligence .members .course-member p {
+  margin-bottom: 0;
+  font-weight: 700;
+  font-size: 16px;
+  color: #0E1133;
+}
+
+.business-intelligence .members .course-member h6 {
+  font-size: 15px;
+  color: #53545b;
+  font-weight: 400;
+}
+
+.business-intelligence .course-share {
+  margin-top: 50px;
+}
+
+.business-intelligence .course-share h3 {
+  color: #0e1133;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.business-intelligence .course-share a {
+  text-decoration: none;
+}
+
+.business-intelligence .course-share a i {
+  margin-right: 15px;
+  border-radius: 4px;
+  padding: 13px 17px;
+  color: #285DA1;
+  background-color: rgba(40, 93, 161, 0.1);
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.business-intelligence .course-share a i.facebook {
+  padding: 13px 17px;
+  color: #285DA1;
+  background-color: rgba(40, 93, 161, 0.1);
+}
+
+.business-intelligence .course-share a i.facebook:hover {
+  background-color: #285DA1;
+  color: white;
+}
+
+.business-intelligence .course-share a i.twitter {
+  padding: 13px 14px;
+  color: #03A9F4;
+  background-color: rgba(3, 169, 244, 0.1);
+}
+
+.business-intelligence .course-share a i.twitter:hover {
+  background-color: #03A9F4;
+  color: white;
+}
+
+.business-intelligence .course-share a i.pinterest {
+  padding: 13px 16px;
+  color: #D2173F;
+  background-color: rgba(216, 22, 63, 0.1);
+}
+
+.business-intelligence .course-share a i.pinterest:hover {
+  background-color: #D8163F;
+  color: white;
+}
+
+.business-intelligence .course-details-sidebar .price-details {
+  width: 110%;
+  padding: 32px;
+  background: white;
+  -webkit-box-shadow: 0 16px 32px 0 rgba(7, 28, 31, 0.1);
+          box-shadow: 0 16px 32px 0 rgba(7, 28, 31, 0.1);
+  margin-bottom: 20px;
+}
+
+.business-intelligence .course-details-sidebar .price-details .img-play-box {
+  position: relative;
+}
+
+.business-intelligence .course-details-sidebar .price-details .img-play-box img {
+  border-radius: 5px;
+}
+
+.business-intelligence .course-details-sidebar .price-details .img-play-box .overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0%;
+  left: 0%;
+  text-align: center;
+  padding-top: 20%;
+  background-color: rgba(0, 0, 0, 0.574);
+  border-radius: 5px;
+}
+
+.business-intelligence .course-details-sidebar .price-details .img-play-box .overlay i {
+  color: #2B4EFF;
+  background-color: white;
+  padding: 15px 17px;
+  border-radius: 50%;
+  font-size: 17px;
+  z-index: 1;
+  -webkit-animation: playing 2s infinite;
+          animation: playing 2s infinite;
+}
+
+.business-intelligence .course-details-sidebar .price-details .prices {
+  margin: 15px 0 25px 0;
+}
+
+.business-intelligence .course-details-sidebar .price-details .prices h5 {
+  color: #0E1133;
+  font-weight: 700;
+  font-size: 25px;
+  display: inline-block;
+}
+
+.business-intelligence .course-details-sidebar .price-details .prices .new-price {
+  color: #0E1133;
+  font-weight: 600;
+  font-size: 20px;
+  margin-left: -5px;
+}
+
+.business-intelligence .course-details-sidebar .price-details .prices .old-price {
+  color: #6d6e75;
+  font-size: 15px;
+  font-weight: 500;
+  margin-left: 10px;
+  position: relative;
+}
+
+.business-intelligence .course-details-sidebar .price-details .prices .old-price::after {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 1%;
+  top: 50%;
+  left: 0%;
+  border: 0.05px solid #6d6e75;
+}
+
+.business-intelligence .course-details-sidebar .price-details .prices h6 {
+  margin-top: 5px;
+  font-size: 14px;
+  font-weight: 700;
+  padding: 3px 7px;
+  border-radius: 3px;
+  background-color: rgba(255, 70, 144, 0.08);
+  color: #F2277E;
+}
+
+.business-intelligence .course-details-sidebar .price-details li {
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #eef0f6;
+}
+
+.business-intelligence .course-details-sidebar .price-details li.last-li {
+  border-bottom: none;
+}
+
+.business-intelligence .course-details-sidebar .price-details li i {
+  font-size: 15px;
+  color: #2B4EFF;
+  margin-right: 7px;
+  display: inline;
+}
+
+.business-intelligence .course-details-sidebar .price-details li h5 {
+  display: inline;
+  font-size: 16px;
+}
+
+.business-intelligence .course-details-sidebar .price-details li span {
+  color: #6d6e75;
+  font-size: 15px;
+}
+
+.business-intelligence .course-details-sidebar .price-details .payment-methods {
+  margin-top: 20px;
+}
+
+.business-intelligence .course-details-sidebar .price-details .blue-button {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.business-intelligence .course-details-sidebar .related-courses {
+  width: 110%;
+  padding: 32px;
+  background: white;
+  -webkit-box-shadow: 0 16px 32px 0 rgba(7, 28, 31, 0.1);
+          box-shadow: 0 16px 32px 0 rgba(7, 28, 31, 0.1);
+}
+
+.business-intelligence .course-details-sidebar .related-courses h3 {
+  font-size: 18px;
+  color: #0E1133;
+  font-weight: 700;
+}
+
+.business-intelligence .course-details-sidebar .related-courses .related-course {
+  margin-top: 25px;
+}
+
+.business-intelligence .course-details-sidebar .related-courses .related-course img {
+  border-radius: 5px;
+  margin-right: 15px;
+}
+
+.business-intelligence .course-details-sidebar .related-courses .related-course i {
+  color: #FF9415;
+  font-size: 10px;
+}
+
+.business-intelligence .course-details-sidebar .related-courses .related-course a {
+  text-decoration: none;
+  color: #0E1133;
+  font-weight: 500;
+  -webkit-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out;
+}
+
+.business-intelligence .course-details-sidebar .related-courses .related-course a:hover {
+  color: #2B4EFF;
+}
+
+.business-intelligence .course-details-sidebar .related-courses .related-course h6 {
+  color: #2B4EFF;
+  font-size: 14px;
+}
+
+.related-course {
+  padding: 50px 0;
+}
+
+.related-course .related-course-top-text {
+  margin-bottom: 40px;
+}
+
+.related-course .related-course-top-text h2,
+.related-course .related-course-top-text span {
+  font-size: 40px;
+  color: #0e1133;
+  font-weight: 700;
+  display: inline;
+}
+
+.related-course .related-course-top-text span {
+  z-index: 1;
+  position: relative;
+}
+
+.related-course .related-course-top-text span img {
+  position: absolute;
+  top: 70%;
+  left: -10%;
+  width: 130%;
+  height: 20%;
+  z-index: -1;
+  -webkit-animation: line-action 3s infinite;
+          animation: line-action 3s infinite;
+}
+
+.related-course .related-course-top-text h4 {
+  font-size: 16px;
+  color: #53545b;
+  font-weight: 400;
+}
+
+@-webkit-keyframes line-action {
+  0% {
+    width: 0;
+  }
+  15% {
+    width: 125%;
+  }
+  85% {
+    opacity: 1;
+  }
+  90% {
+    width: 125%;
+    opacity: 0;
+  }
+  100% {
+    width: 0;
+    opacity: 0;
+  }
+}
+
+@keyframes line-action {
+  0% {
+    width: 0;
+  }
+  15% {
+    width: 125%;
+  }
+  85% {
+    opacity: 1;
+  }
+  90% {
+    width: 125%;
+    opacity: 0;
+  }
+  100% {
+    width: 0;
+    opacity: 0;
+  }
+}
+
+.related-course .related-course-slide {
+  width: 100%;
+}
+
+.related-course .related-course-slide .related-course-photo {
+  position: relative;
+  overflow: hidden;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  width: 90%;
+}
+
+.related-course .related-course-slide .related-course-photo img {
+  -webkit-transform: scale(1);
+          transform: scale(1);
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+
+.related-course .related-course-slide .related-course-photo img:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.related-course .related-course-slide .related-course-photo .course-name {
+  position: absolute;
+  top: 10%;
+  left: 5%;
+  padding: 3px 11px;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+  background-color: #B128FF;
+  border-radius: 5px;
+}
+
+.related-course .related-course-slide .related-course-photo .mechanical {
+  background-color: #0FA0DD;
+}
+
+.related-course .related-course-slide .related-course-photo .development {
+  background-color: #30A820;
+}
+
+.related-course .related-course-slide .related-course-photo .marketing {
+  background-color: #2B4EFF;
+}
+
+.related-course .related-course-slide .related-course-details {
+  width: 90%;
+  padding: 28px;
+  padding-bottom: 10px;
+  border: 1px solid #eef0f6;
+  border-top: none;
+}
+
+.related-course .related-course-slide .related-course-details .lesson-details {
+  margin-bottom: 15px;
+}
+
+.related-course .related-course-slide .related-course-details .lesson-details span {
+  font-size: 16px;
+  color: #6d6e75;
+}
+
+.related-course .related-course-slide .related-course-details .lesson-details span .star {
+  color: #FF9415;
+}
+
+.related-course .related-course-slide .related-course-details .link-to-course {
+  line-height: 10px;
+  text-decoration: none;
+  color: #0E1133;
+  font-size: 20px;
+  font-weight: 600;
+  -webkit-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out;
+}
+
+.related-course .related-course-slide .related-course-details .link-to-course:hover {
+  color: #2B4EFF;
+}
+
+.related-course .related-course-slide .related-course-details .related-course-teacher {
+  margin: 15px 0;
+}
+
+.related-course .related-course-slide .related-course-details .related-course-teacher img {
+  border-radius: 50%;
+  border: 1px solid white;
+  -webkit-box-shadow: 0 16px 32px 0 rgba(6, 25, 28, 0.256);
+          box-shadow: 0 16px 32px 0 rgba(6, 25, 28, 0.256);
+  margin-right: 10px;
+}
+
+.related-course .related-course-slide .related-course-details .related-course-teacher .teacher-name {
+  font-weight: 500;
+  color: #53545b;
+  -webkit-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out;
+}
+
+.related-course .related-course-slide .related-course-details .related-course-teacher .teacher-name:hover {
+  color: #2B4EFF;
+}
+
+.related-course .related-course-slide .course-bottom-text {
+  width: 90%;
+  border: 1px solid #eef0f6;
+  border-top: none;
+  padding: 10px 28px;
+}
+
+.related-course .related-course-slide .course-bottom-text h5 {
+  font-size: 20px;
+  color: #B128FF;
+  font-weight: 600;
+}
+
+.related-course .related-course-slide .course-bottom-text .link-to-details {
+  text-decoration: none;
+  color: #0e1133;
+  font-size: 16px;
+  font-weight: 400;
+  -webkit-transition: 0.1s ease-in-out;
+  transition: 0.1s ease-in-out;
+}
+
+.related-course .related-course-slide .course-bottom-text .link-to-details .arrow-two {
+  display: none;
+  -webkit-transform: translateX(-10px);
+          transform: translateX(-10px);
+  -webkit-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out;
+}
+
+.related-course .related-course-slide .course-bottom-text .link-to-details:hover {
+  color: #2B4EFF;
+}
+
+.related-course .related-course-slide .course-bottom-text .link-to-details:hover .arrow-one {
+  display: none;
+}
+
+.related-course .related-course-slide .course-bottom-text .link-to-details:hover .arrow-two {
+  display: inline;
+  -webkit-transform: translateX(1);
+          transform: translateX(1);
+}
+
+.related-course .dots i {
+  font-size: 12px;
+  margin: 3px;
+  color: #2B4EFF;
+}
+
+@media (max-width: 768px) {
+  .blue-button {
+    display: block;
+    padding: 10px 30px;
+    border-radius: 4px;
+    background-color: #2B4EFF;
+    color: white;
+    font-weight: 500;
+    -webkit-transition: 0.2s ease-in-out;
+    transition: 0.2s ease-in-out;
+  }
+  .blue-button:hover {
+    color: white;
+    -webkit-box-shadow: 0 16px 32px 0 rgba(6, 25, 28, 0.256);
+            box-shadow: 0 16px 32px 0 rgba(6, 25, 28, 0.256);
+  }
+  .business-intelligence {
+    padding: 60px 20px;
+    position: relative;
+  }
+  .business-intelligence .background-shape-one {
+    position: absolute;
+    height: auto;
+    width: auto;
+    top: 5%;
+    left: 0%;
+  }
+  .business-intelligence .background-shape-two {
+    position: absolute;
+    height: auto;
+    width: auto;
+    top: 1%;
+    left: 5%;
+  }
+  .business-intelligence .background-shape-three {
+    position: absolute;
+    height: auto;
+    width: auto;
+    top: 0%;
+    right: 0%;
+  }
+  .business-intelligence .background-shape-four {
+    display: none;
+  }
+  .business-intelligence .business-intelligence-top li {
+    margin-right: 20px;
+    color: #595858;
+    font-size: 14px;
+  }
+  .business-intelligence .business-intelligence-top li a {
+    text-decoration: none;
+    color: #595858;
+    font-size: 14px;
+    position: relative;
+  }
+  .business-intelligence .business-intelligence-top li a::after {
+    content: ".";
+    font-weight: 900;
+    cursor: default;
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    left: 110%;
+    bottom: 55%;
+  }
+  .business-intelligence .business-intelligence-top .field-name {
+    display: inline-block;
+    font-size: 14px;
+    padding: 2px 8px 4px 8px;
+    color: white;
+    background-color: #30A820;
+    border-radius: 4px;
+    margin-bottom: 20px;
+  }
+  .business-intelligence .business-intelligence-top h1 {
+    color: #0E1133;
+    font-weight: 700;
+    font-size: 48px;
+  }
+  .business-intelligence .course-details {
+    width: 100%;
+    margin: 30px 0 50px 0;
+  }
+  .business-intelligence .course-details h5 {
+    font-size: 14px;
+    color: #53545b;
+    margin-bottom: 2px;
+  }
+  .business-intelligence .course-details a,
+  .business-intelligence .course-details p,
+  .business-intelligence .course-details span {
+    font-size: 15px;
+    font-weight: 700;
+    color: #0E1133;
+    margin-bottom: 0;
+  }
+  .business-intelligence .course-details img {
+    width: 45px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-right: 10px;
+  }
+  .business-intelligence .course-details i {
+    font-size: 13px;
+    color: #FF9415;
+  }
+  .business-intelligence .tab-menu-head {
+    overflow: hidden;
+    border-radius: 3px;
+    margin: 25px 0 35px 0;
+    border-right: 1px solid grey;
+  }
+  .business-intelligence .tab-menu-head .main-tab-menu-head {
+    background-color: #2B4EFF;
+    color: white;
+  }
+  .business-intelligence .tab-menu-head .last-tab-menu-head {
+    border-right: none;
+  }
+  .business-intelligence .tab-menu-head a {
+    background-color: #EDEEF3;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    width: 25%;
+    padding: 15px 0;
+    font-weight: 600;
+    border-right: 1px solid #d2d3dc;
+  }
+  .business-intelligence .discription h2 {
+    font-size: 25px;
+    color: #0E1133;
+    font-weight: 700;
+  }
+  .business-intelligence .discription p {
+    font-size: 18px;
+    color: #53545b;
+  }
+  .business-intelligence .discription .course-tag {
+    margin: 25px 0;
+  }
+  .business-intelligence .discription .course-tag i {
+    color: #2B4EFF;
+  }
+  .business-intelligence .discription .course-tag a {
+    text-decoration: none;
+    color: #53545b;
+    font-weight: 500;
+    -webkit-transition: 0.1s ease-in-out;
+    transition: 0.1s ease-in-out;
+  }
+  .business-intelligence .discription .course-tag a:hover {
+    color: #2B4EFF;
+  }
+  .business-intelligence .discription .target-audience {
+    margin-bottom: 45px;
+  }
+  .business-intelligence .discription .target-audience h3 {
+    font-size: 26px;
+    font-weight: 700;
+    color: #0E1133;
+  }
+  .business-intelligence .discription .target-audience li {
+    font-size: 18px;
+    color: #53545b;
+    margin-bottom: 7px;
+  }
+  .business-intelligence .discription .target-audience i {
+    margin-right: 10px;
+  }
+  .business-intelligence .discription .other-instructors {
+    width: 100%;
+  }
+  .business-intelligence .discription .other-instructors h3 {
+    font-size: 26px;
+    font-weight: 700;
+    color: #0E1133;
+    margin-bottom: 20px;
+  }
+  .business-intelligence .discription .other-instructors .instructors {
+    display: block;
+  }
+  .business-intelligence .discription .other-instructors .instructor {
+    width: 100% img;
+    width-width: 50px;
+    width-border-radius: 50%;
+    width-margin-right: 15px;
+  }
+  .business-intelligence .discription .other-instructors .instructor p {
+    margin-bottom: 0;
+    font-weight: 600;
+    font-size: 15px;
+    color: #0E1133;
+  }
+  .business-intelligence .discription .other-instructors .instructor h6 {
+    font-size: 14px;
+    color: #53545b;
+    font-weight: 400;
+  }
+  .business-intelligence .curriculum .accordion-menu {
+    border-radius: 4px;
+    width: 100%;
+    margin: 50px 0;
+    overflow: hidden;
+  }
+  .business-intelligence .curriculum .accordion-menu .accordion-menu-head {
+    font-size: 20px;
+    font-weight: 700;
+    color: #0E1133;
+    padding: 18px 30px 12px;
+    background-color: #F3F4F8;
+    border: 1px solid #EDEEF2;
+  }
+  .business-intelligence .curriculum .accordion-menu .accordion-menu-head h4 {
+    font-size: 18px;
+    font-weight: 700;
+  }
+  .business-intelligence .curriculum .accordion-menu .class-features {
+    padding: 18px 30px;
+    border: 0.2px solid #EDEEF2;
+    border-top: none;
+  }
+  .business-intelligence .curriculum .accordion-menu .class-features i {
+    margin-right: 10px;
+    color: #6d6e75;
+  }
+  .business-intelligence .curriculum .accordion-menu .class-features span {
+    color: #53545b;
+    font-size: 16px;
+  }
+  .business-intelligence .curriculum .accordion-menu .class-features .reading {
+    font-weight: 500;
+    color: #0E1133;
+  }
+  .business-intelligence .curriculum .accordion-menu .class-features .span-pink {
+    margin-left: 18px;
+    color: white;
+    padding: 0.8px 7px 2px;
+    border-radius: 4px;
+    background-color: #F2277E;
+  }
+  .business-intelligence .reviews h3 {
+    color: #0E1133;
+    font-weight: 700;
+    font-size: 23px;
+  }
+  .business-intelligence .reviews .review-top-text p {
+    color: #6d6e75;
+  }
+  .business-intelligence .reviews .rating {
+    width: 108%;
+    height: 250px;
+    background-color: #F3F4F8;
+    padding: 30px;
+    border-bottom-left-radius: 4px;
+    border-top-left-radius: 4px;
+  }
+  .business-intelligence .reviews .rating h1 {
+    padding: 0;
+    font-size: 6rem;
+    color: #0E1133;
+  }
+  .business-intelligence .reviews .rating .review-stars {
+    margin: -10px 0 8px 0;
+  }
+  .business-intelligence .reviews .rating .review-stars i {
+    color: #FF9415;
+    font-size: 14.5px;
+  }
+  .business-intelligence .reviews .rating h4 {
+    color: #53545b;
+    font-size: 16px;
+    font-weight: normal;
+  }
+  .business-intelligence .reviews .detailed-rating {
+    width: 100%;
+    height: 250px;
+    background-color: #F3F4F8;
+    padding: 35px;
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+  }
+  .business-intelligence .reviews .detailed-rating h5 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #0e1133;
+    margin-bottom: 8px;
+  }
+  .business-intelligence .reviews .detailed-rating .data-box {
+    margin: 7px 0;
+  }
+  .business-intelligence .reviews .detailed-rating .data-box span {
+    width: 20%;
+    font-size: 16px;
+    color: #53545b;
+  }
+  .business-intelligence .reviews .detailed-rating .data-box .data-line {
+    overflow: hidden;
+    width: 40%;
+    height: 3.5px;
+    border-radius: 3px;
+    background-color: #d8dae3;
+  }
+  .business-intelligence .reviews .detailed-rating .data-box .data-line .data {
+    width: 100%;
+    height: 100%;
+    background-color: #2B4EFF;
+  }
+  .business-intelligence .reviews .detailed-rating .data-box .data-line .thirty-percent {
+    width: 30%;
+  }
+  .business-intelligence .reviews .student-reviews {
+    margin-top: 40px;
+  }
+  .business-intelligence .reviews .student-reviews .student-review {
+    background-color: #F3F4F8;
+    width: 100%;
+    padding: 30px;
+    margin-top: 20px;
+  }
+  .business-intelligence .reviews .student-reviews .student-review img {
+    border-radius: 50%;
+    margin-right: 15px;
+  }
+  .business-intelligence .reviews .student-reviews .student-review h5 {
+    color: #0e1133;
+    font-size: 16px;
+    font-weight: 700;
+  }
+  .business-intelligence .reviews .student-reviews .student-review h6 {
+    font-size: 14px;
+    color: #53545b;
+    font-weight: normal;
+  }
+  .business-intelligence .reviews .student-reviews .student-review .review-content {
+    font-size: 16px;
+    font-weight: normal;
+    color: #6d6e75;
+  }
+  .business-intelligence .reviews .student-reviews .student-review a {
+    color: #FF9415;
+  }
+  .business-intelligence .reviews .student-reviews .student-review a i {
+    font-size: 11px;
+  }
+  .business-intelligence .reviews .write-a-review {
+    margin-top: 35px;
+  }
+  .business-intelligence .reviews .write-a-review input,
+  .business-intelligence .reviews .write-a-review textarea {
+    width: 100%;
+    margin-top: 15px;
+    background-color: #F3F4F8;
+    border: none;
+    border-radius: 5px;
+    height: 57px;
+    padding: 15px 25px;
+  }
+  .business-intelligence .reviews .write-a-review input ::-webkit-input-placeholder,
+  .business-intelligence .reviews .write-a-review textarea ::-webkit-input-placeholder {
+    font-size: 20px;
+    color: red;
+  }
+  .business-intelligence .reviews .write-a-review input :-ms-input-placeholder,
+  .business-intelligence .reviews .write-a-review textarea :-ms-input-placeholder {
+    font-size: 20px;
+    color: red;
+  }
+  .business-intelligence .reviews .write-a-review input ::-ms-input-placeholder,
+  .business-intelligence .reviews .write-a-review textarea ::-ms-input-placeholder {
+    font-size: 20px;
+    color: red;
+  }
+  .business-intelligence .reviews .write-a-review input ::placeholder,
+  .business-intelligence .reviews .write-a-review textarea ::placeholder {
+    font-size: 20px;
+    color: red;
+  }
+  .business-intelligence .reviews .write-a-review .review-rating-stars {
+    margin: 15px 0 0 0;
+  }
+  .business-intelligence .reviews .write-a-review .review-rating-stars .review-stars {
+    display: inline;
+  }
+  .business-intelligence .reviews .write-a-review .review-rating-stars .review-stars a {
+    color: #FF9415;
+    font-size: 12px;
+  }
+  .business-intelligence .reviews .write-a-review .review-rating-stars .review-stars a .grey-star {
+    color: #B8B9BF;
+  }
+  .business-intelligence .reviews .write-a-review textarea {
+    height: 150px;
+  }
+  .business-intelligence .reviews .write-a-review .b-b-different {
+    margin-top: 20px;
+    display: inline-block;
+    padding: 14px 20px;
+  }
+  .business-intelligence .members .course-member {
+    border-radius: 5px;
+    padding: 33px 40px;
+    background-color: #F3F4F8;
+    margin: 11px 0;
+  }
+  .business-intelligence .members .course-member .course-member-intro {
+    width: 45%;
+    position: relative;
+  }
+  .business-intelligence .members .course-member .course-member-intro::after {
+    content: "";
+    position: absolute;
+    width: 1px;
+    height: 100%;
+    top: 0%;
+    right: -4%;
+    background: #dddee4;
+  }
+  .business-intelligence .members .course-member .course-member-intro img {
+    width: 70px;
+    border-radius: 50%;
+    margin-right: 15px;
+  }
+  .business-intelligence .members .course-member p {
+    margin-bottom: 0;
+    font-weight: 700;
+    font-size: 16px;
+    color: #0E1133;
+  }
+  .business-intelligence .members .course-member h6 {
+    font-size: 15px;
+    color: #53545b;
+    font-weight: 400;
+  }
+  .business-intelligence .course-share {
+    margin-top: 50px;
+  }
+  .business-intelligence .course-share h3 {
+    color: #0e1133;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .business-intelligence .course-share a {
+    text-decoration: none;
+  }
+  .business-intelligence .course-share a i {
+    margin-right: 15px;
+    border-radius: 4px;
+    padding: 13px 17px;
+    color: #285DA1;
+    background-color: rgba(40, 93, 161, 0.1);
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+  }
+  .business-intelligence .course-share a i.facebook {
+    padding: 13px 17px;
+    color: #285DA1;
+    background-color: rgba(40, 93, 161, 0.1);
+  }
+  .business-intelligence .course-share a i.facebook:hover {
+    background-color: #285DA1;
+    color: white;
+  }
+  .business-intelligence .course-share a i.twitter {
+    padding: 13px 14px;
+    color: #03A9F4;
+    background-color: rgba(3, 169, 244, 0.1);
+  }
+  .business-intelligence .course-share a i.twitter:hover {
+    background-color: #03A9F4;
+    color: white;
+  }
+  .business-intelligence .course-share a i.pinterest {
+    padding: 13px 16px;
+    color: #D2173F;
+    background-color: rgba(216, 22, 63, 0.1);
+  }
+  .business-intelligence .course-share a i.pinterest:hover {
+    background-color: #D8163F;
+    color: white;
+  }
+  .business-intelligence .course-details-sidebar .price-details {
+    width: 110%;
+    padding: 32px;
+    background: white;
+    -webkit-box-shadow: 0 16px 32px 0 rgba(7, 28, 31, 0.1);
+            box-shadow: 0 16px 32px 0 rgba(7, 28, 31, 0.1);
+    margin-bottom: 20px;
+  }
+  .business-intelligence .course-details-sidebar .price-details .img-play-box {
+    position: relative;
+  }
+  .business-intelligence .course-details-sidebar .price-details .img-play-box img {
+    border-radius: 5px;
+  }
+  .business-intelligence .course-details-sidebar .price-details .img-play-box .overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    text-align: center;
+    padding-top: 20%;
+    background-color: rgba(0, 0, 0, 0.492);
+  }
+  .business-intelligence .course-details-sidebar .price-details .img-play-box .overlay i {
+    color: #2B4EFF;
+    background-color: white;
+    padding: 15px 17px;
+    border-radius: 50%;
+    font-size: 17px;
+    z-index: 1;
+  }
+  .business-intelligence .course-details-sidebar .price-details .prices {
+    margin: 15px 0 25px 0;
+  }
+  .business-intelligence .course-details-sidebar .price-details .prices h5 {
+    color: #0E1133;
+    font-weight: 700;
+    font-size: 25px;
+    display: inline-block;
+  }
+  .business-intelligence .course-details-sidebar .price-details .prices .new-price {
+    color: #0E1133;
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: -5px;
+  }
+  .business-intelligence .course-details-sidebar .price-details .prices .old-price {
+    color: #6d6e75;
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: 10px;
+    position: relative;
+  }
+  .business-intelligence .course-details-sidebar .price-details .prices .old-price::after {
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 1%;
+    top: 50%;
+    left: 0%;
+    border: 0.05px solid #6d6e75;
+  }
+  .business-intelligence .course-details-sidebar .price-details .prices h6 {
+    margin-top: 5px;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 3px 7px;
+    border-radius: 3px;
+    background-color: rgba(255, 70, 144, 0.08);
+    color: #F2277E;
+  }
+  .business-intelligence .course-details-sidebar .price-details li {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eef0f6;
+  }
+  .business-intelligence .course-details-sidebar .price-details li.last-li {
+    border-bottom: none;
+  }
+  .business-intelligence .course-details-sidebar .price-details li i {
+    font-size: 15px;
+    color: #2B4EFF;
+    margin-right: 7px;
+    display: inline;
+  }
+  .business-intelligence .course-details-sidebar .price-details li h5 {
+    display: inline;
+    font-size: 16px;
+  }
+  .business-intelligence .course-details-sidebar .price-details li span {
+    color: #6d6e75;
+    font-size: 15px;
+  }
+  .business-intelligence .course-details-sidebar .price-details .payment-methods {
+    margin-top: 20px;
+  }
+  .business-intelligence .course-details-sidebar .price-details .blue-button {
+    margin-top: 30px;
+    text-align: center;
+  }
+  .business-intelligence .course-details-sidebar .related-courses {
+    width: 110%;
+    padding: 32px;
+    background: white;
+    -webkit-box-shadow: 0 16px 32px 0 rgba(7, 28, 31, 0.1);
+            box-shadow: 0 16px 32px 0 rgba(7, 28, 31, 0.1);
+  }
+  .business-intelligence .course-details-sidebar .related-courses h3 {
+    font-size: 18px;
+    color: #0E1133;
+    font-weight: 700;
+  }
+  .business-intelligence .course-details-sidebar .related-courses .related-course {
+    margin-top: 25px;
+  }
+  .business-intelligence .course-details-sidebar .related-courses .related-course img {
+    border-radius: 5px;
+    margin-right: 15px;
+  }
+  .business-intelligence .course-details-sidebar .related-courses .related-course i {
+    color: #FF9415;
+    font-size: 10px;
+  }
+  .business-intelligence .course-details-sidebar .related-courses .related-course a {
+    text-decoration: none;
+    color: #0E1133;
+    font-weight: 500;
+    -webkit-transition: 0.2s ease-in-out;
+    transition: 0.2s ease-in-out;
+  }
+  .business-intelligence .course-details-sidebar .related-courses .related-course a:hover {
+    color: #2B4EFF;
+  }
+  .business-intelligence .course-details-sidebar .related-courses .related-course h6 {
+    color: #2B4EFF;
+    font-size: 14px;
+  }
+}
+
+.about-top {
+  background-image: url(/Images/page-title-2.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  width: 100%;
+  height: 60vh;
+  position: relative;
+}
+
+.about-top .overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 3, 32, 0.6);
+  padding-top: 200px;
+  padding-left: 100px;
+}
+
+.about-top .overlay h1 {
+  font-size: 70px;
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.about-top .overlay li {
+  color: white;
+  font-size: 15px;
+  font-weight: 400;
+  margin-right: 18px;
+}
+
+.about-top .overlay li a {
+  position: relative;
+  color: white;
+  margin-right: 15px;
+}
+
+.about-top .overlay li a::after {
+  position: absolute;
+  content: ".";
+  font-size: 30px;
+  bottom: -33%;
+  right: -50%;
+}
+
+.about-section {
+  padding-top: 100px;
+  padding-bottom: 250px;
+  width: 100%;
+}
+
+.about-section .about-photo {
+  position: relative;
+}
+
+.about-section .about-photo img {
+  border-radius: 7px;
+}
+
+.about-section .about-photo .rotate-text {
+  position: absolute;
+  left: -25px;
+  top: 100px;
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+  font-size: 16px;
+  font-weight: 600;
+  color: #6d6e75;
+  display: inline-block;
+}
+
+.about-section .about-photo .rotate-text span {
+  color: black;
+  font-weight: 500;
+}
+
+.about-section .about-photo h6 {
+  font-size: 16px;
+  font-weight: 400;
+  color: #6d6e75;
+  display: inline-block;
+}
+
+.about-section .about-photo h6 span {
+  color: black;
+  font-weight: 500;
+}
+
+.about-section .about-photo .about-photo-one {
+  position: absolute;
+  left: 100px;
+  width: 55%;
+}
+
+.about-section .about-photo .about-photo-two {
+  position: absolute;
+  top: 220px;
+  left: 20px;
+  width: 35%;
+  border-radius: 6px;
+}
+
+.about-section .about-photo .teachers {
+  position: absolute;
+  right: 195px;
+  top: 435px;
+  width: 29%;
+  text-align: end;
+}
+
+.about-section .about-photo .teachers img {
+  border-radius: 50%;
+  border: 1px solid white;
+  -webkit-box-shadow: 0 16px 32px 0 rgba(6, 25, 28, 0.256);
+          box-shadow: 0 16px 32px 0 rgba(6, 25, 28, 0.256);
+  margin-right: -8px;
+}
+
+.about-section .application {
+  padding-right: 280px;
+}
+
+.about-section .application h1 {
+  font-size: 40px;
+  color: #0E1133;
+  font-weight: 700;
+}
+
+.about-section .application h1 span {
+  position: relative;
+}
+
+.about-section .application h1 span img {
+  position: absolute;
+  top: 70%;
+  left: -10%;
+  width: 100%;
+  height: 25%;
+  z-index: -1;
+  -webkit-animation: line-action 3s infinite;
+          animation: line-action 3s infinite;
+}
+
+@keyframes line-action {
+  0% {
+    width: 0;
+  }
+  15% {
+    width: 125%;
+  }
+  85% {
+    opacity: 1;
+  }
+  90% {
+    width: 125%;
+    opacity: 0;
+  }
+  100% {
+    width: 0;
+    opacity: 0;
+  }
+}
+
+.about-section .application p {
+  font-size: 16px;
+  color: #53545b;
+  line-height: 26px;
+}
+
+.about-section .application li {
+  position: relative;
+  font-weight: 400;
+  margin-bottom: 12px;
+}
+
+.about-section .application li i {
+  color: #30A820;
+  margin-right: 10px;
+}
+
+.brands {
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
+
+.brands h2 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #0E1133;
+  margin-bottom: 60px;
+}
+
+.brands a {
+  color: #0e1133;
+  font-size: 16px;
+  -webkit-transition: 0.1s ease-in-out;
+  transition: 0.1s ease-in-out;
+}
+
+.brands a:hover {
+  color: #2B4EFF;
+}
+
+.brands img {
+  margin-bottom: 45px;
+}
+
+.testimonials {
+  width: 100%;
+  height: 100vh;
+  background-image: url(/Images/testimonial-bg-3.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+}
+
+.testimonials .student-community {
+  padding-top: 80px;
+  padding: 80px 0px 0 0;
+}
+
+.testimonials .student-community .student-community-top h1 {
+  font-size: 40ox;
+  font-weight: 700;
+}
+
+.testimonials .student-community .student-community-top p {
+  font-size: 24px;
+  line-height: 40px;
+}
+
+.testimonials .student-community .student-community-top h3 {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.testimonials .student-community .student-community-top h3 span {
+  font-weight: 400;
+  font-size: 18px;
+  color: #e2ece9;
+}
+
+.testimonials .student-community .students img {
+  border-radius: 50%;
+  margin: 35px;
+}
+
+.testimonials .student-community .students .student-one {
+  border: 2 px solid red;
+  position: relative;
+}
+
+.testimonials .student-community .students .student-one::after {
+  position: absolute;
+  content: "";
+  left: -20px;
+  top: -20px;
+  width: 120%;
+  height: 120%;
+  border-radius: 50%;
+  border: 3px solid white;
+}
+
+.testimonials .video {
+  width: 80%;
+}
+
+.testimonials .video iframe {
+  width: 100%;
+  border-bottom-left-radius: none;
+  border-bottom-right-radius: none;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  margin-top: 100px;
+}
+
+.testimonials .video .video-discription {
+  width: 100%;
+  background-color: white;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border-top-left-radius: none;
+  border-top-right-radius: none;
+  padding: 40px;
+}
+
+.testimonials .video .video-discription .check {
+  width: 20%;
+}
+
+.testimonials .video .video-discription .check i {
+  background-color: #0FA0DD;
+  padding: 20px;
+  border-radius: 50%;
+  font-size: 22px;
+}
+
+.testimonials .video .video-discription .course-outcome {
+  width: 80%;
+}
+
+.testimonials .video .video-discription .course-outcome h4 {
+  color: #0E1133;
+  font-weight: 700;
+  font-size: 26px;
+}
+
+.testimonials .video .video-discription .course-outcome p {
+  font-size: 16px;
+  color: #53545b;
+  line-height: 26px;
+}
+
+.counter-section {
+  padding-top: 50px;
+  margin: auto;
+}
+
+.counter-section .counter-top-text {
+  text-align: center;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+.counter-section .counter-top-text h2 {
+  font-size: 40px;
+  color: #0e1133;
+  font-weight: 700;
+}
+
+.counter-section .counter-top-text p {
+  font-size: 16px;
+  color: #53545b;
+}
+
+.counter-section .counter {
+  margin-right: 190px;
+  font-size: 26px;
+  color: #0E1133;
+  font-weight: 700;
+}
+
+.counter-section h5 {
+  font-size: 16px;
+  color: #6d6e75;
+}
+
+.counter-section i {
+  font-size: 26px;
+}
+
+.counter-section .users {
+  color: #F2277E;
+}
+
+.counter-section .bookmark {
+  color: #FFB352;
+}
+
+.counter-section .graduation {
+  color: #0FA0DD;
+}
+
+.counter-section .earth {
+  color: #2B4EFF;
+}
+/*# sourceMappingURL=style.css.map */
